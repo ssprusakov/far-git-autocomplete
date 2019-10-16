@@ -29,14 +29,13 @@ To build the plugin and dependent [libgit2 library](https://libgit2.github.com/)
 
 *   Git
 *   CMake
-*   Microsoft Visual Studio Community 2015 or higher
-*   zip
+*   Microsoft Visual Studio Community 2017 or higher
 
 Download the sources:
 
     git clone https://github.com/excelsior-oss/far-git-autocomplete.git --recursive
 
-And build everything using "MSBuild Command Prompt for VS2015":
+And build everything using "Developer Command Prompt for VS 2017":
 
     cd far-git-autocomplete
     build.bat
